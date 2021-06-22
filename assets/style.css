@@ -1,0 +1,219 @@
+#block1 {
+    float: left;
+    display: block;
+    width: 600px;
+    height: 750px;
+    border: 1px solid rgb(82, 82, 82);
+    margin: 2px;
+    margin-left: 290px;
+    margin-top: 100px;
+    background-color: rgb(116, 114, 114);
+    }
+    
+    #block2 {
+    float: left;
+    display: block;
+    width: 600px;
+    height: 750px;
+    border: 1px solid rgb(82, 82, 82);
+    margin: 2px;
+    margin-left: 50px;
+    margin-top: 100px;
+    background-color: rgb(116, 114, 114);
+
+    }
+
+
+    .img1
+
+    {
+
+        width: 150px;
+        border-radius: 5%;
+       margin-top: 40px;
+       margin-left: 40px;
+        
+     
+        
+    }
+
+
+    .img2
+
+    {
+
+        width: 150px;
+        border-radius: 5%;
+       margin-top: 40px;
+       margin-left: 40px;
+        
+        
+    }
+
+    .h2
+
+    {
+
+    font-size: 40px;
+    color: black;
+    font-family: 'Noto Serif', serif;
+    display: inline-block;
+    border-bottom: 3px solid black;
+   
+   
+
+}
+.dd
+
+{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 0px;
+    position: absolute;
+}
+
+.text1
+
+{
+
+max-width: 120px;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 23px;
+margin-top: -30px;
+
+
+
+
+}
+
+
+.text2
+
+{
+
+max-width: 330px;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 23px;
+margin-top: -90px;
+margin-left: 240px;
+color: burlywood;
+
+
+}
+
+
+.t
+
+    {
+
+    
+    color: black;
+    font-family: 'Noto Serif', serif;
+    display: inline-block;
+    margin-left: 40px;
+   
+   
+   
+   
+
+}
+
+
+.E
+
+{
+    border-bottom: 2px solid #000;
+    max-width: 100px;
+    font-size: 100x;
+
+}
+
+.t .E
+
+{
+
+    font-size: 20px;
+}
+
+
+
+.t2
+
+    {
+
+    
+    color: black;
+    font-family: 'Noto Serif', serif;
+    display: inline-block;
+    margin-left: 120px;
+   
+   
+   
+   
+
+}
+
+
+
+.t2 .E1
+
+{
+
+    font-size: 20px;
+}
+
+
+.E1
+
+{
+    border-bottom: 2px solid #000;
+    max-width: 55px;
+    font-size: 50x;
+
+}
+
+.t3 .E2
+
+{
+
+    font-size: 20px;
+    max-width: 200px;
+
+}
+
+.t3 
+
+{
+
+    font-size: 20px;
+    max-width: 525px;
+    margin-left: 35px;
+    text-align: justify;
+
+}
+
+
+.E1
+
+{
+    border-bottom: 2px solid #000;
+    max-width: 200px;
+    font-size: 30x;
+
+}
+
+.cont
+{
+    
+    margin-left: 35px;
+}
+
+.cont li
+
+{
+   
+    font-size:20px;
+   
+    
+}
+
